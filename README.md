@@ -15,3 +15,11 @@ To run the formatter
 ```bash
 python -m black src
 ```
+
+### Tests
+
+To run the tests
+
+```bash
+python -m pytest
+```
