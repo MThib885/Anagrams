@@ -13,7 +13,15 @@ No dependencies :)
 To run the formatter
 
 ```bash
-python -m black src
+thx format
+```
+
+### Linters
+
+To run the linters
+
+```bash
+thx lint
 ```
 
 ### Tests
@@ -21,5 +29,5 @@ python -m black src
 To run the tests
 
 ```bash
-python -m pytest
+thx test
 ```
